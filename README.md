@@ -1,2 +1,2 @@
 # DemoJass
-Demo for initial local commits
+Demo for initial local commits.
